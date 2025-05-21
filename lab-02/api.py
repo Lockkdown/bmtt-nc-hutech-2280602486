@@ -6,6 +6,7 @@ from cipher.railfence import RailFenceCipher
 from cipher.playfair import PlayFairCipher
 from cipher.transposition import TranspositionCipher 
 
+
 app = Flask(__name__)
 
 # CAESAR CIPHER ALGORITHM
